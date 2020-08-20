@@ -26,7 +26,7 @@ REM
 REM -----------------------------------------
 REM Location of new/updated rdpwrap.ini files
 REM -----------------------------------------
-set rdpwrap_ini_update_github_1="https://raw.githubusercontent.com/prince11jose/rdpwrap/master/rdpwrap.ini"
+set rdpwrap_ini_update_github_1="https://raw.githubusercontent.com/yanup2019/rdpwrap/master/rdpwrap.ini"
 set rdpwrap_ini_update_github_2="https://raw.githubusercontent.com/asmtron/rdpwrap/master/res/rdpwrap.ini"
 set rdpwrap_ini_update_github_3="https://raw.githubusercontent.com/saurav-biswas/rdpwrap-1/patch-1/res/rdpwrap.ini"
 REM set rdpwrap_ini_update_github_3="https://raw.githubusercontent.com/....Extra.3...."
